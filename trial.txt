@@ -1,4 +1,10 @@
 we go over the concepts of commits and repositories as well as an overview of the GitHub User Interface
 this is the second line that I'm adding
+
+this is the file with the unicirn cloured white.
+
+
+diary milk is the new candy bar how is that?
+=======
 this is the file with the unicorn cloured white yes it is.
 
